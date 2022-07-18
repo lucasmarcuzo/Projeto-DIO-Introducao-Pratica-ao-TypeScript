@@ -1,4 +1,4 @@
-<h1> 🛠️ Projeto - Introdução Prática ao TypeScript 📲</h1>
+<h1> 🛠️ Projeto - Introdução Prática ao TypeScript 💻</h1>
 
 - <H3> 👨🏻‍💻 Criando um projeto em TypeScript para a realização de exemplos e desafios propostos.</h3>
 
